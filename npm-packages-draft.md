@@ -21,4 +21,5 @@ This is still a draft and not listed on the main readme.
 
 ## CLI Tools
 
+* [npm-name-cli](npm-name-cli) - Checks to see whether a package name is available on npm.
 * [sloc](https://www.npmjs.com/package/sloc) - Determine how many lines of code a project has.

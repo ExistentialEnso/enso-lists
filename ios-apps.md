@@ -8,6 +8,7 @@
 ## Lifestyle
 
 * Feedly - Subscribe to feeds of different publications to stay on top of their articles.
+* [Noizio](http://noiz.io) - Ambient sound player. I like to mix "Summer Night" and "October Rain" to relax and focus.
 * Overcast - Great way to listen to podcasts.
 * Strong - Simple app for tracking weight lifting workouts. Integrates with Apple Health.
 
