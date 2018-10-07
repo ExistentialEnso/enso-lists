@@ -12,6 +12,7 @@ My preferred lapto/desktop OS is macOS. Simply put, it provides the best user ex
 * [Alfred](https://www.alfredapp.com) - Spotlight, but even better. With the Powerpack, you can install workflows that make Alfred a versatile tool that can offer an easy command line-esque interface while still providing graphical, real-time feedback.
 * [Focus](https://heyfocus.com) - Though I have a substantial social media presence, if I get too caught up in the goings-on there, I can spend hours that later feel wasted scrolling through things. Focus lets you temporarily block websites and apps that distract you.
 * [Noizio](http://noiz.io) - Ambient sound player. I like to mix "Summer Night" and "October Rain" to relax and focus.
+* [Zotero](https://www.zotero.org) - Academic research organization tool.
 
 ## Entertainment
 
