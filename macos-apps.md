@@ -24,7 +24,10 @@ My preferred lapto/desktop OS is macOS. Simply put, it provides the best user ex
 * [Visual Studio Code](https://code.visualstudio.com) - Yeah, yeah, it's a Microsoft product, but this is my favorite lightweight coding editor.
 
 ## Utilities
+* [Bartender](https://www.macbartender.com) - Organize your menu bar icons.
+* [Cascadea](https://cascadea.app) - User styles add-on for Safari.
 * [Transmission](https://transmissionbt.com) - Free and lightweight BitTorrent client.
+* [Typeface](https://typefaceapp.com) - A better alternative to the built-in font book on macOS.
 * [Wipr](https://itunes.apple.com/us/app/wipr/id1320666476?mt=12) - Ad/malware blocker for Safari that makes the browser a lot snappier to boot.
 
 ## Command Line
