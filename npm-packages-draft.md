@@ -11,7 +11,9 @@ This is still a draft and not listed on the main readme.
 ## Utility
 
 * [dotenv](https://www.npmjs.com/package/dotenv) - Load environmental variables from an env file.
+* [local-devices](https://www.npmjs.com/package/local-devices) - Convenient wrapper for using `arp` to get data about local devices.
 * [moment](https://www.npmjs.com/package/moment) - Super powerful library for interacting with dates/times.
+* [ncp](https://www.npmjs.com/package/ncp) - Clone one directory to another.
 * [pluralize](https://www.npmjs.com/package/pluralize) - Easily pluralize/singularize words.
 
 ## Building
@@ -21,5 +23,6 @@ This is still a draft and not listed on the main readme.
 
 ## CLI Tools
 
-* [npm-name-cli](npm-name-cli) - Checks to see whether a package name is available on npm.
+* [nodemon](https://www.npmjs.com/package/nodemon) - Restart node apps when file changes are detected.
+* [npm-name-cli](https://www.npmjs.com/package/npm-name-cli) - Checks to see whether a package name is available on npm.
 * [sloc](https://www.npmjs.com/package/sloc) - Determine how many lines of code a project has.
