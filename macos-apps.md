@@ -14,7 +14,7 @@ My preferred lapto/desktop OS is macOS. Simply put, it provides the best user ex
 * [Focus](https://heyfocus.com) - Though I have a substantial social media presence, if I get too caught up in the goings-on there, I can spend hours that later feel wasted scrolling through things. Focus lets you temporarily block websites and apps that distract you.
 * [Noizio](http://noiz.io) - Ambient sound player. I like to mix "Summer Night" and "October Rain" to relax and focus.
 * [Reeder](http://reederapp.com/mac/) - How I browse my news feeds (using Feedly, but it supports others!)
-* [Zotero](https://www.zotero.org) - Academic research organization tool.
+* [Zotero](https://www.zotero.org) - Academic research organization tool that I used to track peer reviewed research.
 
 ## Entertainment
 
