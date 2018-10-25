@@ -4,7 +4,8 @@ My preferred lapto/desktop OS is macOS. Simply put, it provides the best user ex
 
 ## Communication
 
-* [Spark](https://sparkmailapp.com) - The best email client for macOS. Also, its logo is a lot better than Mail.app's which is a relic of Apple's skeumorphic years.
+* [Flume](https://flumeapp.com) - Fairly minimalist Instagram client that is an absolute joy to use.
+* [Spark](https://sparkmailapp.com) - My favorite email client for macOS. Also, its logo is a lot better than Mail.app's which is a relic of Apple's skeumorphic years.
 * [TweetFast](https://tweetfast.xyz) - Easy way to write tweets from the menu bar of the Mac.
 
 ## Productivity
@@ -12,6 +13,7 @@ My preferred lapto/desktop OS is macOS. Simply put, it provides the best user ex
 * [Alfred](https://www.alfredapp.com) - Spotlight, but even better. With the Powerpack, you can install workflows that make Alfred a versatile tool that can offer an easy command line-esque interface while still providing graphical, real-time feedback.
 * [Focus](https://heyfocus.com) - Though I have a substantial social media presence, if I get too caught up in the goings-on there, I can spend hours that later feel wasted scrolling through things. Focus lets you temporarily block websites and apps that distract you.
 * [Noizio](http://noiz.io) - Ambient sound player. I like to mix "Summer Night" and "October Rain" to relax and focus.
+* [Reeder](http://reederapp.com/mac/) - How I browse my news feeds (using Feedly, but it supports others!)
 * [Zotero](https://www.zotero.org) - Academic research organization tool.
 
 ## Entertainment
@@ -33,6 +35,8 @@ My preferred lapto/desktop OS is macOS. Simply put, it provides the best user ex
 
 * [Bartender](https://www.macbartender.com) - Organize your menu bar icons.
 * [Cascadea](https://cascadea.app) - User styles add-on for Safari.
+* [Paste](https://pasteapp.me) - Clipboard history and cloud syncing between devices.
+* [Rocket](https://matthewpalmer.net/rocket/) - Lets you quickly and naturally type emojis everywhere.
 * [Transmission](https://transmissionbt.com) - Free and lightweight BitTorrent client.
 * [Typeface](https://typefaceapp.com) - A better alternative to the built-in font book on macOS.
 * [Wipr](https://itunes.apple.com/us/app/wipr/id1320666476?mt=12) - Ad/malware blocker for Safari that makes the browser a lot snappier to boot.
