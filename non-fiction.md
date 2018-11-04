@@ -12,6 +12,10 @@ Crucial for understanding how propaganda works in mass media, which helps you se
 
 ## History
 
+### *Guns, Germs, and Steel* by Jared Diamond
+
+A good materialistic analysis of the development of human societies that examines the role of pathogens and animal husbandry.
+
 ### *A People's History of the United States* by Howard Zinn
 
 An examination of how the United States was driven by exploitation and manipulation, and how groups have struggled against that.

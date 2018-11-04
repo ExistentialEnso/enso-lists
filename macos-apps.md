@@ -45,4 +45,5 @@ My preferred lapto/desktop OS is macOS. Simply put, it provides the best user ex
 
 * [Brew](https://brew.sh) - The easiest way to install stuff through the command line.
 * [Hyper](https://hyper.is) - Sleeker Terminal with support for skinning and plugins.
+* [NVM](https://github.com/creationix/nvm) - Install and switch between Node versions from the command line.
 * [Yarn](https://yarnpkg.com/en/) - Does a better job of npm dependency management than npm's own CLI tool.

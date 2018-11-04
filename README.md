@@ -10,4 +10,6 @@ This repository is the home of curated lists maintained by Thorne Melcher (@Exis
 
 ## Media
 
+* [Fiction Books](https://github.com/existentialenso/enso-lists/blob/master/fiction.md)
 * [Non-Fiction Books](https://github.com/existentialenso/enso-lists/blob/master/non-fiction.md)
+* [YouTube](https://github.com/existentialenso/enso-lists/blob/master/youtube.md)
