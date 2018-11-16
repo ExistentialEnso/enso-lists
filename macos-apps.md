@@ -4,7 +4,9 @@ My preferred lapto/desktop OS is macOS. Simply put, it provides the best user ex
 
 ## Communication
 
+* [Caprine](https://sindresorhus.com/caprine/) - Best desktop Facebook Messenger client I've used.
 * [Flume](https://flumeapp.com) - Fairly minimalist Instagram client that is an absolute joy to use.
+* [Signal](https://signal.org/download/) - Popular chat app with encrypted messages.
 * [Spark](https://sparkmailapp.com) - My favorite email client for macOS. Also, its logo is a lot better than Mail.app's which is a relic of Apple's skeumorphic years.
 * [TweetFast](https://tweetfast.xyz) - Easy way to write tweets from the menu bar of the Mac.
 
@@ -14,6 +16,7 @@ My preferred lapto/desktop OS is macOS. Simply put, it provides the best user ex
 * [Focus](https://heyfocus.com) - Though I have a substantial social media presence, if I get too caught up in the goings-on there, I can spend hours that later feel wasted scrolling through things. Focus lets you temporarily block websites and apps that distract you.
 * [Noizio](http://noiz.io) - Ambient sound player. I like to mix "Summer Night" and "October Rain" to relax and focus.
 * [Reeder](http://reederapp.com/mac/) - How I browse my news feeds (using Feedly, but it supports others!)
+* [Ulysses](https://ulysses.app) - Great tool for keeping track of your writing and getting a distraction-free workspace.
 * [Zotero](https://www.zotero.org) - Academic research organization tool that I used to track peer reviewed research.
 
 ## Entertainment
@@ -24,6 +27,7 @@ My preferred lapto/desktop OS is macOS. Simply put, it provides the best user ex
 
 ## Developer
 
+* [Dash](https://kapeli.com/dash) - API documentation browser.
 * [Expressions](https://www.apptorium.com/expressions) - Handy tool I use for testing and debugging RegEx expressions.
 * [Insomnia](https://insomnia.rest) - An incredibly useful API debugging tool.
 * [Medis](http://getmedis.com) - Well-designed tool for managing the key/value pairs in a Redis store.
@@ -37,6 +41,7 @@ My preferred lapto/desktop OS is macOS. Simply put, it provides the best user ex
 * [Cascadea](https://cascadea.app) - User styles add-on for Safari.
 * [Paste](https://pasteapp.me) - Clipboard history and cloud syncing between devices.
 * [Rocket](https://matthewpalmer.net/rocket/) - Lets you quickly and naturally type emojis everywhere.
+* [SwiftDefaultApps](https://github.com/Lord-Kamina/SwiftDefaultApps/releases) - Lets you manage what opens what.
 * [Transmission](https://transmissionbt.com) - Free and lightweight BitTorrent client.
 * [Typeface](https://typefaceapp.com) - A better alternative to the built-in font book on macOS.
 * [Wipr](https://itunes.apple.com/us/app/wipr/id1320666476?mt=12) - Ad/malware blocker for Safari that makes the browser a lot snappier to boot.
