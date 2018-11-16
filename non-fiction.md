@@ -19,3 +19,9 @@ A good materialistic analysis of the development of human societies that examine
 ### *A People's History of the United States* by Howard Zinn
 
 An examination of how the United States was driven by exploitation and manipulation, and how groups have struggled against that.
+
+## Philosophy
+
+### *Zen and the Art of Motorcycle Maintenance* by Robert M. Pirsig
+
+The only book with "Zen and the Art of" in the title by a white guy I've loved.
