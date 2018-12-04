@@ -6,10 +6,6 @@
 
 Communalism seems to be the most workable and sustainable model for libertarian socialism.
 
-### *Manufacturing Consent* by Edward S. Herman & Noam Chomsky
-
-Crucial for understanding how propaganda works in mass media, which helps you see through the fog it produces.
-
 ## History
 
 ### *Guns, Germs, and Steel* by Jared Diamond
