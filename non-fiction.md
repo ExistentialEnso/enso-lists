@@ -1,10 +1,19 @@
 # Non-Fiction Books
 
-## Political Theory
+## Politics
+
+### *Against the Fascist Creep* by Alexander Reid Ross
+
+An examination of how fascism is infiltrating our society in the contemporary era.
 
 ### *The Ecology of Freedom* by Murray Bookchin
 
 Communalism seems to be the most workable and sustainable model for libertarian socialism.
+
+### *Mutual Aid: A Factor of Evolution*
+
+Disproves the idea that "surivival of the fittest" only means the fittest individual. Social species evolve through 
+cooperation, and humanity's capacity for linguistics enabled this on a new level.
 
 ## History
 
