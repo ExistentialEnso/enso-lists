@@ -8,11 +8,13 @@ My preferred lapto/desktop OS is macOS. Simply put, it provides the best user ex
 * [Flume](https://flumeapp.com) - Fairly minimalist Instagram client that is an absolute joy to use.
 * [Signal](https://signal.org/download/) - Popular chat app with encrypted messages.
 * [Spark](https://sparkmailapp.com) - My favorite email client for macOS. Also, its logo is a lot better than Mail.app's which is a relic of Apple's skeumorphic years.
+* [Twitteriffic](https://twitterrific.com/mac) - Twitter weakened aspects of its API, making 3rd party apps less powerful, but this is the best option for macOS. Integration with the share menu is a nice plus.
 
 ## Productivity
 
 * [Alfred](https://www.alfredapp.com) - Spotlight, but even better. With the Powerpack, you can install workflows that make Alfred a versatile tool that can offer an easy command line-esque interface while still providing graphical, real-time feedback.
 * [Focus](https://heyfocus.com) - Though I have a substantial social media presence, if I get too caught up in the goings-on there, I can spend hours that later feel wasted scrolling through things. Focus lets you temporarily block websites and apps that distract you.
+* [OmniFocus](https://www.omnigroup.com/omnifocus/) - Admittedly somewhat pricey, but this is the best way I've found to track what I need to get done.
 * [Noizio](http://noiz.io) - Ambient sound player. I like to mix "Summer Night" and "October Rain" to relax and focus.
 * [Reeder](http://reederapp.com/mac/) - How I browse my news feeds (using Feedly, but it supports others!)
 * [Ulysses](https://ulysses.app) - Great tool for keeping track of your writing and getting a distraction-free workspace.
@@ -34,6 +36,7 @@ My preferred lapto/desktop OS is macOS. Simply put, it provides the best user ex
 
 ## Utilities
 
+* [1Password](https://1password.com/) - Enables me to keep all my passwords in sync and unique, even on browsers/devices without Apple Keychain support.
 * [Bartender](https://www.macbartender.com) - Organize your menu bar icons.
 * [Cascadea](https://cascadea.app) - User styles add-on for Safari.
 * [Paste](https://pasteapp.me) - Clipboard history and cloud syncing between devices.
